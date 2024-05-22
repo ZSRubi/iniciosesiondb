@@ -11,7 +11,7 @@
 </head>
 <body>
     <form action="IniciarSesion.php" method = "POST">
-        <h1>inicio nuevo</h1>
+        <h1>inicio nuevos go</h1>
         <hr>
         <?php
             if(isset($_GET['error'])){
